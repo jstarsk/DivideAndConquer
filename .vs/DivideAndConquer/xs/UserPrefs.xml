@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D107686E-2424-A614-A8F9-D9488ED506AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DivideAndConquerEngine.cs">
+    <Files>
+      <File FileName="Assets/DivideAndConquerEngine.cs" Line="30" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DivideAndConquer PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
